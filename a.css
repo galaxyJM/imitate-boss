@@ -22,4 +22,11 @@ body{
     line-height: 2.1;
 }
 
+.find-cata{
+    padding: 32px;
+}
+.find-cata dt{
+    align-items: center;
+    display: flex;
 
+}
